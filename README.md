@@ -1,6 +1,6 @@
 # Neural-Style
 A TensorFlow Project of Neural Style
-（参考csdn博客中他人经历-学习使用）
+（参考CSDN博客中他人经历-学习使用）
 ## **代码实现**
 
 **环境介绍**
