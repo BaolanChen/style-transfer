@@ -1,0 +1,1 @@
+python neural_style.py --content examples/cat.jpg --styles examples/2-style1.jpg --output y-output.jpg
